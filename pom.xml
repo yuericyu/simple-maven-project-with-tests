@@ -29,7 +29,7 @@
         <repository>
             <id>nexus-release</id>
             <name>my nexus release</name>
-            <<url>http://192.168.88.14:8081/repository/maven-release</url>
+            <<url>http://192.168.88.14:8081/repository/maven-releases</url>
         </repository>
     </distributionManagement>
     <dependencies>
