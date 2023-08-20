@@ -1,0 +1,4 @@
+---
+-- hosts: oub
+   tasks:
+   -- debug: msg="{{ lookup('env','BUILD_TAG') }}"
